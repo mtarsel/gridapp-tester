@@ -12,4 +12,9 @@ Will create a directory
 ./testing/grid-size/
 ```
 
-And it will save the execute times in .csv file.
+To execute:
+```bash
+chmod u+x ./tester.sh
+./tester.sh
+```
+The number of threads is the row in the Excel sheet.
